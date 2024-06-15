@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=enginksaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=enginksaa&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
-### 😂 Random Dev Meme
+### 😂 Meme
 <img src="(https://meme-api.com/gimme)" width="512px"/>
 
 ---
